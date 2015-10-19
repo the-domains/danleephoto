@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[danleephoto]]></title>
         <description><![CDATA[danleephoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danleephoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 19:52:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 20:06:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danleephoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing the grid.io beta. Maybe this can be used for danleephoto's blog? We'll see.</p>]]></description>
-            <link>undefined9e7a2bcd-a8dc-4ef3-939a-90c2ced5ac0e/index.html</link>
+            <link>https://thegrid.ai/danleephoto/9e7a2bcd-a8dc-4ef3-939a-90c2ced5ac0e/index.html</link>
             <guid isPermaLink="false">9e7a2bcd-a8dc-4ef3-939a-90c2ced5ac0e</guid>
             <pubDate>Mon, 19 Oct 2015 19:52:42 GMT</pubDate>
         </item>
